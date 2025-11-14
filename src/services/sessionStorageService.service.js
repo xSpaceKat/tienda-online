@@ -1,4 +1,4 @@
-import { Crypto } from './Crypto.js'
+import { Crypto } from './crypto.service.js'
 
 export class SessionStorageService {
     constructor (){}
